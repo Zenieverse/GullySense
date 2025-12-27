@@ -1,0 +1,7 @@
+{
+  "name": "GullySense: Your Hyperlocal Bangalore Guide",
+  "description": "A street-smart AI guide for Bangalore, specifically tuned for Indiranagar's nuances. Get advice on street food, traffic, and local slang from Kiro, your digital macha.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

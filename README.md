@@ -10,7 +10,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1D9HqQUcKmZk2CHRcvFvJ9x
 
 or https://poe.com/GullySense
 
-Demo Video 
+Demo Video https://vt.tiktok.com/ZS5duHrKg/
 
 ## Run Locally
 
